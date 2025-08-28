@@ -1,3 +1,16 @@
+# 👋 Hi, I'm Anmol Goyal
+
+🎓 A passionate Software Engineering Fresher with a strong interest in building scalable applications, solving complex problems, and learning cutting-edge technologies.
+💻 Skilled in C++, JavaScript, React, Node.js, and Git, with hands-on experience in developing projects and exploring full-stack development.
+🚀 Currently learning Next.js and Cloud technologies while sharpening my DSA skills.
+🌱 Open to opportunities in Software Development, Web Development, and Open Source Contributions.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anmolgoyal7817/) | [Email](mailto:anmolgoyal7817@gmail.com)
+
+
+✨ “Code. Learn. Build. Repeat.”
+
+
 # 💫 About Me:
 🔭 I’m currently working on Exploring system design principles while building full-stack apps from scratch.<br><br>🤝 I’m looking to collaborate on open-source AI, full-stack, and SaaS projects<br><br>💡 I’m looking for help with optimizing AI workflows and scalable backend systems<br><br>🌱 I’m currently learning System Design, Advanced React, and Cloud Architecture<br><br>💬 Ask me about Web Development, AI Integrations, and Resume Building Tools<br><br>⚡ Fun fact: I enjoy building projects that make day-to-day tasks easier with automation
 
